@@ -1,7 +1,7 @@
 <?php
 
-$usuario_correcto = "parzibyte";
-$palabra_secreta_correcta = "hunter2";
+$usuario_correcto = "victor";
+$palabra_secreta_correcta = "1234";
 
 $usuario = $_POST["usuario"];
 $palabra_secreta = $_POST["palabra_secreta"];
